@@ -6,9 +6,8 @@ namespace LeetCodeConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-            _279_First_BadVersion.Run();
+            //_279_First_BadVersion.Run();
+            _35_Search_Insert_Position.Run();
         }
 
 
