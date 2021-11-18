@@ -1,0 +1,10 @@
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.csproj.AssemblyReference.cache
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.AssemblyInfo.cs
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeConsole.csproj.AssemblyReference.cache
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeConsole.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeConsole.AssemblyInfo.cs
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeConsole.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.csproj.AssemblyReference.cache
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.AssemblyInfoInputs.cache
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.AssemblyInfo.cs
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.csproj.CoreCompileInputs.cache
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\bin\Debug\net5.0\LeetCodeResearch.exe
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\bin\Debug\net5.0\LeetCodeResearch.deps.json
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\bin\Debug\net5.0\LeetCodeResearch.runtimeconfig.json
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\bin\Debug\net5.0\LeetCodeResearch.runtimeconfig.dev.json
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\bin\Debug\net5.0\LeetCodeResearch.dll
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\bin\Debug\net5.0\ref\LeetCodeResearch.dll
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\bin\Debug\net5.0\LeetCodeResearch.pdb
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.dll
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\ref\LeetCodeResearch.dll
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.pdb
+C:\Users\matte\OneDrive\src\LeetCode\LeetCodeResearch\ConsoleApp\obj\Debug\net5.0\LeetCodeResearch.genruntimeconfig.cache
