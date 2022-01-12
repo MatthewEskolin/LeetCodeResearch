@@ -4,7 +4,7 @@ namespace LeetCodeResearch
 {
     public class _977_Squares_of_a_Sorted_Array
     {
-
+        //Author Test
         // Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
         // Example 1:
 
