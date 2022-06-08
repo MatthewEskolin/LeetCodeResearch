@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8GzNHDPpFk2FdIo9C5qN40eDhb2ERnQcHJx0d5CdOOdKO7TBC2lpit3PUgOS9i5dsqNXiJyT9YgePeajCdjayg==",
+  "dgSpecHash": "XLyM6WMUjdpFwW2WtrffrKfdevLXYJ2ojXtV5Q7FcOoSBjq+o8jciqEu4jqIH1I4qdqOzRpN7pibM2nrmnQ4aw==",
   "success": true,
-  "projectFilePath": "C:\\Matt1\\mattsrc\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
+  "projectFilePath": "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

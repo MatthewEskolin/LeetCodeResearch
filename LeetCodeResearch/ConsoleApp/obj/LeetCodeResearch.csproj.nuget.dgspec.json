@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Matt1\\mattsrc\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj": {}
+    "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj": {}
   },
   "projects": {
-    "C:\\Matt1\\mattsrc\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj": {
+    "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Matt1\\mattsrc\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
+        "projectUniqueName": "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
         "projectName": "LeetCodeResearch",
-        "projectPath": "C:\\Matt1\\mattsrc\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
+        "projectPath": "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
         "packagesPath": "C:\\Users\\matthew.eskolin\\.nuget\\packages\\",
-        "outputPath": "C:\\Matt1\\mattsrc\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matthew.eskolin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
