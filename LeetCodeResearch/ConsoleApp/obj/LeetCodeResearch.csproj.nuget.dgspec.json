@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj": {}
+    "C:\\users\\matte\\onedrive\\src\\LeetCode\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj": {}
   },
   "projects": {
-    "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj": {
+    "C:\\users\\matte\\onedrive\\src\\LeetCode\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
+        "projectUniqueName": "C:\\users\\matte\\onedrive\\src\\LeetCode\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
         "projectName": "LeetCodeResearch",
-        "projectPath": "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
-        "packagesPath": "C:\\Users\\matthew.eskolin\\.nuget\\packages\\",
-        "outputPath": "C:\\Matt1\\src\\local\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\obj\\",
+        "projectPath": "C:\\users\\matte\\onedrive\\src\\LeetCode\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
+        "packagesPath": "C:\\Users\\matte\\.nuget\\packages\\",
+        "outputPath": "C:\\users\\matte\\onedrive\\src\\LeetCode\\LeetCodeResearch\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matthew.eskolin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,12 +49,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.4, 6.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.4, 6.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.4, 6.0.4]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.4, 6.0.4]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.4.22252.9\\RuntimeIdentifierGraph.json"
         }
       }
     }
