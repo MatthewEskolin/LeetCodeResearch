@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ARkP6oJJ0ZbynBFPMchHsXSjzGWyvpZaqr0CdisuDtZm/fos4dESxTsnarR/sQRljiOpHToVKDutBo+VwlSIQ==",
+  "dgSpecHash": "hYwKXgTW+hCLPwG4aUF5gCip4YIXhwvKA3WYmbWpRzhOB5oKUvdFtstbwr+3faL4Q4nkzqoFemnmqUSab6UNnw==",
   "success": true,
   "projectFilePath": "C:\\Users\\matte\\OneDrive\\src\\LeetCode\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\matte\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
-    "C:\\Users\\matte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\matte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\matte\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
