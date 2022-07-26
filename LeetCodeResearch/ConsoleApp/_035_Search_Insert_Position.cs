@@ -3,22 +3,7 @@ using System.Diagnostics;
 
 namespace LeetCodeResearch
 {
-    public static class _9_Palindrome_Number
-    {
-        public static void Run()
-        {
-            Console.WriteLine(IsPalindrome(232));
-        }
-
-        public static bool IsPalindrome(int x)
-        {
-            if(x < 0) return false;
-
-            return false;
-
-        }
-    }
-    public static class  _35_Search_Insert_Position {
+    public static class  _035_Search_Insert_Position {
 
         public static void Run()
         {
