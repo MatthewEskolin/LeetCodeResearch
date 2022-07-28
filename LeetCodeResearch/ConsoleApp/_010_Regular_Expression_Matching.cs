@@ -4,6 +4,12 @@ using System.Linq;
 namespace LeetCodeResearch;
 
 //https://leetcode.com/problems/regular-expression-matching/
+
+//C# Help
+//https://leetcode.com/problems/regular-expression-matching/discuss/425444/C-Solution
+
+
+
 public static class _010_Regular_Expression_Matching
 {
     public static void Run()
@@ -21,6 +27,7 @@ public static class _010_Regular_Expression_Matching
 
     }
 
+    //Understanding Recursion
     private static bool IsMatchNoStars(string s, string p)
     {
         if (String.IsNullOrEmpty(p))
@@ -28,11 +35,12 @@ public static class _010_Regular_Expression_Matching
             return string.IsNullOrEmpty(s);
         }
 
-        var firstMatch = p[0] == s[0] || p[0] == '.';
+        bool firstMatch = p[0] == s[0] || p[0] == '.';
 
-        var newS = s.ElementAtOrDefault(0) == null;
 
-        return firstMatch && IsMatchNoStars(s[1].ToString(), p[1].ToString());
+        string Slice(string wholeString) => wholeString.Length == 1 ? null : wholeString.Substring(1);
+
+        return firstMatch && IsMatchNoStars(Slice(s), Slice(p));
 
 
 
