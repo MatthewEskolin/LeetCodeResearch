@@ -8,7 +8,23 @@ namespace LeetCodeResearch;
 //C# Help
 //https://leetcode.com/problems/regular-expression-matching/discuss/425444/C-Solution
 
+public static class _003_Longest_Substring_Without_Repeating_Characters
+{
+    public static void Run()
+    {
+        // Input: s = "abcabcbb"
+        // Output: 3
+        // Explanation: The answer is "abc", with the length of 3.
+        Console.WriteLine(LengthOfLongestSubstring("Test"));
+    }
 
+    public static int LengthOfLongestSubstring(string s) {
+
+        return 5;
+        
+    }
+
+}
 
 public static class _010_Regular_Expression_Matching
 {
@@ -17,7 +33,7 @@ public static class _010_Regular_Expression_Matching
         //IsMatch("aaaaaaaaab", "aa*b");
 
         //WithoutStars
-        IsMatchNoStars()
+        IsMatchNoStars("test","test");
 
     }
 

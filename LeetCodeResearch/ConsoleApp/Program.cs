@@ -17,7 +17,8 @@ namespace LeetCodeResearch
         static void Main(string[] args)
         {
             //10
-            _010_Regular_Expression_Matching.Run();
+            // _010_Regular_Expression_Matching.Run();
+            _003_Longest_Substring_Without_Repeating_Characters.Run();
 
 
 

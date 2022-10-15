@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\users\\matte\\onedrive\\src\\LeetCode\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
+      "projectUniqueName": "C:\\src\\gh\\LeetCode\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
       "projectName": "LeetCodeResearch",
-      "projectPath": "C:\\users\\matte\\onedrive\\src\\LeetCode\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
+      "projectPath": "C:\\src\\gh\\LeetCode\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\LeetCodeResearch.csproj",
       "packagesPath": "C:\\Users\\matte\\.nuget\\packages\\",
-      "outputPath": "C:\\users\\matte\\onedrive\\src\\LeetCode\\LeetCodeResearch\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\src\\gh\\LeetCode\\LeetCodeResearch\\LeetCodeResearch\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matte\\AppData\\Roaming\\NuGet\\NuGet.Config",
